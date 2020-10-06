@@ -9,8 +9,7 @@ def message(color, pretext, title, message, webhook):
                 "color": color,
                 "pretext": pretext,
                 "title": title,
-                "text": message,
-                "footer": "DEVOPS MADE EASY ALERTS"
+                "text": message
             }
         ]
     }
